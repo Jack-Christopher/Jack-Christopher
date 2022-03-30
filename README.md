@@ -1,12 +1,11 @@
-### Hi there 👋, I'm Jack Christopher
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=7000&color=00F71A&center=true&vCenter=true&width=550&lines=Hi+everyone+%F0%9F%91%8B;I'm+Jack+Christopher%2C+a+web+developer;and+I+%E2%9D%A4%EF%B8%8F+open+source+)](https://git.io/typing-svg)
 
 ## Badges
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jack-Christopher.Jack-Christopher&left_color=green&right_color=red)
 [![Years Badge](https://badges.pufler.dev/years/Jack-Christopher)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Jack-Christopher)](https://badges.pufler.dev)
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8442815)](https://stackoverflow.com/users/8442815/jc2102)
-
+[![wakatime](https://wakatime.com/badge/user/b54f763d-0715-4714-ab6b-63c6c58b35e2.svg)](https://wakatime.com/@b54f763d-0715-4714-ab6b-63c6c58b35e2)
 
 ## GitHub trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jack-Christopher&theme=darkhub&&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
