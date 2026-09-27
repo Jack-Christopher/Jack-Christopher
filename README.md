@@ -1,56 +1,44 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=7000&color=00F71A&center=true&vCenter=true&width=550&lines=Hi+everyone+%F0%9F%91%8B;I'm+Jack+Christopher%2C+a+web+developer;and+I+%E2%9D%A4%EF%B8%8F+open+source+)](https://git.io/typing-svg)
+# Jack Christopher
 
-## Badges
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jack-Christopher.Jack-Christopher&left_color=green&right_color=red)
-[![Years Badge](https://badges.pufler.dev/years/Jack-Christopher)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Jack-Christopher)](https://badges.pufler.dev)
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8442815)](https://stackoverflow.com/users/8442815/jc2102)
-[![wakatime](https://wakatime.com/badge/user/b54f763d-0715-4714-ab6b-63c6c58b35e2.svg)](https://wakatime.com/@b54f763d-0715-4714-ab6b-63c6c58b35e2)
+Full-stack engineer in Arequipa, Peru. I build a multi-tenant hiring product and an internal console for staffing, hours, and leave, with Java, Spring Boot, and React.
 
-## GitHub trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jack-Christopher&theme=darkhub&&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-**Jack-Christopher/Jack-Christopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Now
 
-Here are some ideas to get you started:
+Most days I split my time between those two.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The hiring product is a workspace for openings, applications, exams, and interviews. I work on the Java API and background jobs, and on the React app recruiters and candidates use. Calendar, email, video meetings, payments, and document signing sit in that flow.
+
+The console staffs a services team: people, projects, hours, and leave. Screens for assignments, approvals, and reports are role-gated, and weekday jobs chase missing timesheets.
+
+## Selected work
+
+- **[OneStore](https://github.com/Jack-Christopher/OneStore)**: Multi-tenant inventory and sales: products, warehouses, purchases, and billing. React and TypeScript on the front, a Node.js API behind it, with roles, React Query, and Docker deployment.
+- **[Heraldo](https://github.com/Jack-Christopher/Heraldo)**: Long PDFs turned into educational audiobooks. A Python pipeline cleans the text, paraphrases it with a local model, and synthesizes speech, resuming from checkpoints when a run stops.
+- **[SemComp](https://github.com/Jack-Christopher/sem-comp)**: Public hub for Computer Science Week at UNSA: the calendar, event details, and how to join workshops and competitions. React, Node.js, and MongoDB.
+
+## Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## GitHub statistics
 
-![stats](https://github-readme-stats.vercel.app/api?username=Jack-Christopher&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-&emsp;
-![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Christopher&layout=compact&langs_count=10&theme=dark)
-    
-## Abilities
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Christopher&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Christopher&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Christopher&layout=compact&langs_count=6&theme=default#gh-light-mode-only)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Christopher&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-  
-## Contact me
-[![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackchristopherhuaihua@gmail.com)
-[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-christopher-huaihua-huayhua)
+Repository history drives this chart. Day to day I work in Java, Spring Boot, and React with TypeScript.
+
+## Contact
+
+I am eager to learn and to work on SaaS that has to stay reliable under real use. Email or LinkedIn both reach me.
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackchristopherhuaihuahuayhua@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-christopher-huaihua-huayhua)
